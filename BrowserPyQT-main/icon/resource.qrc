@@ -1,0 +1,23 @@
+<RCC>
+  <qresource prefix="home">
+    <file>home.ico</file>
+  </qresource>
+  <qresource prefix="black">
+    <file>black.png</file>
+  </qresource>
+  <qresource prefix="white">
+    <file>white.png</file>
+  </qresource>
+  <qresource prefix="history">
+    <file>historysearch.ico</file>
+  </qresource>
+  <qresource prefix="search">
+    <file>search.ico</file>
+  </qresource>
+  <qresource prefix="back">
+    <file>back.ico</file>
+  </qresource>
+  <qresource prefix="reload">
+    <file>reload.ico</file>
+  </qresource>
+</RCC>
